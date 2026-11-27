@@ -1,0 +1,4 @@
+upstream: https://github.com/igorbarinov/awesome-data-engineering
+commit: 6a1962972acc6dac891943367461c5cbe85a1ee6
+license: CC0-1.0
+Unmodified snapshot except that .github/workflows was emptied.
